@@ -1,17 +1,22 @@
-# leetcode-resources
+# LeetCode Resources
 
-This project serves as a collection of resources and solutions for LeetCode problems.
+## Introduction
+This repository contains resources and solutions for practicing LeetCode problems.
 
 ## Features
-- Problem-solving strategies
-- Sample solutions in Python
-- Links to useful articles and videos
+- Solutions to various LeetCode problems
+- Categorized by difficulty and topic
+- Tips and tricks for efficient problem solving
+
+## Tech Stack
+- Python
+- JavaScript
 
 ## Usage
 1. Clone the repository
-2. Explore the resources and solutions provided.
+2. Navigate to the problem directory
+3. Run the solution script for the respective problem
 
 ## Future Plans
-- Add more problems and solutions
-- Implement a tracking system for solved problems
-- Improve resource organization
+- Add more solutions
+- Include explanations for each solution
